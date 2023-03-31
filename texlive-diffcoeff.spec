@@ -1,6 +1,6 @@
 Name:		texlive-diffcoeff
 Version:	63590
-Release:	1
+Release:	2
 Summary:	Write differential coefficients easily and consistently
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/diffcoeff
