@@ -3,7 +3,7 @@ Version:	68838
 Release:	1
 Summary:	Write differential coefficients easily and consistently
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/diffcoeff
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/diffcoeff
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/diffcoeff.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/diffcoeff.doc.r%{version}.tar.xz
